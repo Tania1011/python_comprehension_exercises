@@ -24,9 +24,6 @@ Each exercise includes input data (lists, dictionaries, or sentences) and Python
 2. Click **File → Upload Notebook** and select the `.ipynb` file for the exercise you want to run.  
 3. Run the code cells by clicking the **▶ Run** buttons or pressing **Shift + Enter**.  
 
-> **Tip:** You can also open notebooks directly from GitHub:  
-> - Go to **File → Open notebook → GitHub**  
-> - Paste your repository URL and select the notebook you want to open.
 
 ---
 
